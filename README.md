@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="file:///C:/Users/unnat/Downloads/vector.webp" height="175px"/></a>
+<a href="#">
+<img width="100%" height="400" src="http://37.media.tumblr.com/a5b210865cf400a21f2b8fb912c12775/tumblr_n9p276dJa91shpedgo1_400.gif">
+</a>
 
 <h1 align="center">Hello there Homosapien<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Unnati</h1>
 <h3 align="center">I'm a passionate Coder and Decoder from India.</h3>
@@ -45,15 +47,19 @@
 
 <p align="center">
     <a href="https://github.com/unnatikotian/github-readme-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Unnati's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unnatikotian&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+    <!-- <a> [Unnati's GitHub stats](https://github-readme-stats.vercel.app/api?username=unnatikotian)](https://github.com/unnatikotian/github-readme-stats)
+  </a> -->
 </p>
 
 ## 📊 Unnati's Github Stats
 
   <br/>
-    <a href="https://github.com/unnatikotian/github-readme-stats"><img alt="Github Stats Show Efforts given are:" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/unnatikotian/github-readme-stats"><img alt="Unnati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p align="center">
+    <a href="https://github.com/unnatikotian/github-readme-stats"><img alt="Github Stats Show Efforts given are:" src="https://github-readme-stats.vercel.app/api?username=unnatikotian&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/unnatikotian/github-readme-stats"><img alt="Unnati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnatikotian&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -61,7 +67,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/unnatikotian/unnatikotian.git/github-readme-activity-graph"><img alt="Unnati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/unnatikotian/unnatikotian.git/github-readme-activity-graph"><img alt="Unnati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=unnatikotian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -79,8 +85,8 @@
 
 </p>
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
-<a href="https://github.com/unnatikotian?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/unnatikotian?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
