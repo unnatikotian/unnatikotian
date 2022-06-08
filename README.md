@@ -2,7 +2,7 @@
 <img width="100%" height="400" src="https://cdn.wallpapersafari.com/71/87/R5ZQj6.gif">
 </a>
 
-<h1 align="center">Hello there Homosapien<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Unnati</h1>
+<h1 align="center">Hello there Homosapien<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Unnati</h1>
 <h3 align="center">I'm a passionate Coder and Decoder from India.</h3>
 
 
